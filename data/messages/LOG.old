@@ -1,1 +1,17 @@
-2023/07/11-19:42:08.391 33ec Delete type=3 #1
+2023/07/16-10:18:13.817 533c Recovering log #19
+2023/07/16-10:18:13.817 533c Level-0 table #21: started
+2023/07/16-10:18:13.827 533c Level-0 table #21: 1025 bytes OK
+2023/07/16-10:18:13.831 533c Delete type=0 #19
+2023/07/16-10:18:13.831 533c Delete type=3 #18
+2023/07/16-10:28:51.761 1338 Level-0 table #24: started
+2023/07/16-10:28:51.771 1338 Level-0 table #24: 1020 bytes OK
+2023/07/16-10:28:51.772 1338 Delete type=0 #22
+2023/07/16-10:28:51.784 1338 Manual compaction at level-0 from '!messages!WzRkdbd5PDOxYfIG' @ 72057594037927935 : 1 .. '!messages!ntkyTC7iLpNfMIT4' @ 0 : 0; will stop at '!messages!QsmpR5TjHOjzZQb8' @ 5 : 1
+2023/07/16-10:28:51.784 1338 Compacting 2@0 + 1@1 files
+2023/07/16-10:28:51.795 1338 Generated table #25@0: 3 keys, 2028 bytes
+2023/07/16-10:28:51.795 1338 Compacted 2@0 + 1@1 files => 2028 bytes
+2023/07/16-10:28:51.796 1338 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/16-10:28:51.796 1338 Delete type=2 #9
+2023/07/16-10:28:51.797 1338 Delete type=2 #21
+2023/07/16-10:28:51.797 1338 Delete type=2 #24
+2023/07/16-10:28:51.808 1338 Manual compaction at level-0 from '!messages!QsmpR5TjHOjzZQb8' @ 5 : 1 .. '!messages!ntkyTC7iLpNfMIT4' @ 0 : 0; will stop at (end)

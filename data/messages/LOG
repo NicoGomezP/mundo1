@@ -1,15 +1,7 @@
-2023/07/15-23:24:22.308 4378 Recovering log #3
-2023/07/15-23:24:22.308 4378 Level-0 table #5: started
-2023/07/15-23:24:22.320 4378 Level-0 table #5: 2048 bytes OK
-2023/07/15-23:24:22.324 4378 Delete type=0 #3
-2023/07/15-23:24:22.324 4378 Delete type=3 #2
-2023/07/15-23:35:37.571 5280 Level-0 table #8: started
-2023/07/15-23:35:37.571 5280 Level-0 table #8: 0 bytes OK
-2023/07/15-23:35:37.572 5280 Delete type=0 #6
-2023/07/15-23:35:37.572 5280 Manual compaction at level-0 from '!messages!MwcVXj9rVnCy2G7i' @ 72057594037927935 : 1 .. '!messages!rbJ1M522tIrAifBR' @ 0 : 0; will stop at '!messages!rbJ1M522tIrAifBR' @ 1 : 1
-2023/07/15-23:35:37.572 5280 Compacting 1@0 + 0@1 files
-2023/07/15-23:35:37.575 5280 Generated table #9@0: 2 keys, 2048 bytes
-2023/07/15-23:35:37.575 5280 Compacted 1@0 + 0@1 files => 2048 bytes
-2023/07/15-23:35:37.576 5280 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/07/15-23:35:37.576 5280 Delete type=2 #5
-2023/07/15-23:35:37.591 5280 Manual compaction at level-0 from '!messages!rbJ1M522tIrAifBR' @ 1 : 1 .. '!messages!rbJ1M522tIrAifBR' @ 0 : 0; will stop at (end)
+2023/07/16-10:29:29.927 3e94 Recovering log #23
+2023/07/16-10:29:29.931 3e94 Delete type=0 #23
+2023/07/16-10:29:29.931 3e94 Delete type=3 #20
+2023/07/16-10:32:08.863 1338 Level-0 table #29: started
+2023/07/16-10:32:08.863 1338 Level-0 table #29: 0 bytes OK
+2023/07/16-10:32:08.865 1338 Delete type=0 #27
+2023/07/16-10:32:08.880 1338 Manual compaction at level-0 from '!messages!WzRkdbd5PDOxYfIG' @ 72057594037927935 : 1 .. '!messages!ntkyTC7iLpNfMIT4' @ 0 : 0; will stop at (end)

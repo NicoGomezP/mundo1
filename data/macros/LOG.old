@@ -1,1 +1,7 @@
-2023/07/11-19:42:08.462 f68 Delete type=3 #1
+2023/07/16-10:18:13.888 533c Recovering log #17
+2023/07/16-10:18:13.892 533c Delete type=0 #17
+2023/07/16-10:18:13.892 533c Delete type=3 #16
+2023/07/16-10:28:51.797 1338 Level-0 table #21: started
+2023/07/16-10:28:51.806 1338 Level-0 table #21: 746 bytes OK
+2023/07/16-10:28:51.807 1338 Delete type=0 #19
+2023/07/16-10:28:51.812 1338 Manual compaction at level-0 from '!macros!GRmasTEjIwyuo9FV' @ 72057594037927935 : 1 .. '!macros!GRmasTEjIwyuo9FV' @ 0 : 0; will stop at (end)

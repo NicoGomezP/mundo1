@@ -1,7 +1,15 @@
-2023/07/15-23:24:22.347 4378 Recovering log #3
-2023/07/15-23:24:22.352 4378 Delete type=0 #3
-2023/07/15-23:24:22.352 4378 Delete type=3 #2
-2023/07/15-23:35:37.579 5280 Level-0 table #7: started
-2023/07/15-23:35:37.589 5280 Level-0 table #7: 2244 bytes OK
-2023/07/15-23:35:37.590 5280 Delete type=0 #5
-2023/07/15-23:35:37.591 5280 Manual compaction at level-0 from '!fog!GuB820t9QnH6GkmE' @ 72057594037927935 : 1 .. '!fog!GuB820t9QnH6GkmE' @ 0 : 0; will stop at (end)
+2023/07/16-10:29:29.949 3e94 Recovering log #21
+2023/07/16-10:29:29.953 3e94 Delete type=0 #21
+2023/07/16-10:29:29.953 3e94 Delete type=3 #19
+2023/07/16-10:32:08.868 1338 Level-0 table #27: started
+2023/07/16-10:32:08.878 1338 Level-0 table #27: 2244 bytes OK
+2023/07/16-10:32:08.879 1338 Delete type=0 #25
+2023/07/16-10:32:08.880 1338 Manual compaction at level-0 from '!fog!F4EH9LRRaUCKe7dL' @ 72057594037927935 : 1 .. '!fog!F4EH9LRRaUCKe7dL' @ 0 : 0; will stop at (end)
+2023/07/16-10:32:08.880 1338 Manual compaction at level-1 from '!fog!F4EH9LRRaUCKe7dL' @ 72057594037927935 : 1 .. '!fog!F4EH9LRRaUCKe7dL' @ 0 : 0; will stop at '!fog!F4EH9LRRaUCKe7dL' @ 4 : 1
+2023/07/16-10:32:08.880 1338 Compacting 1@1 + 1@2 files
+2023/07/16-10:32:08.882 1338 Generated table #28@1: 1 keys, 2244 bytes
+2023/07/16-10:32:08.882 1338 Compacted 1@1 + 1@2 files => 2244 bytes
+2023/07/16-10:32:08.883 1338 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/16-10:32:08.883 1338 Delete type=2 #23
+2023/07/16-10:32:08.883 1338 Delete type=2 #27
+2023/07/16-10:32:08.887 1338 Manual compaction at level-1 from '!fog!F4EH9LRRaUCKe7dL' @ 4 : 1 .. '!fog!F4EH9LRRaUCKe7dL' @ 0 : 0; will stop at (end)
