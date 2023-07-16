@@ -1,0 +1,15 @@
+{
+  "title": "Mundo1",
+  "id": "mundo1",
+  "system": "dnd5e",
+  "background": "runas-en-el-espacio_5120x2880_xtrafondos.com.jpg",
+  "joinTheme": "default",
+  "coreVersion": "11.305",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "2.2.2",
+  "lastPlayed": "Sun Jul 16 2023 11:16:37 GMT-0300 (hora estándar de Argentina)",
+  "playtime": 98
+}
